@@ -1,5 +1,5 @@
-# Sentiment Analysis of YouTube Video Comments
-                          
+# Sentiment Analysis of YouTube Video Comments                  
+
 This project involves performing sentiment analysis on the comments of a YouTube video using R.
 
 The goal is to gain insights into the overall sentiment expressed by viewers towards the video content.
