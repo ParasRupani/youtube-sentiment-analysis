@@ -67,6 +67,10 @@ if (!requireNamespace("textstem", quietly = TRUE)) {
   install.packages("textstem")
 };library(textstem)
 
+if (!requireNamespace("ggplot2", quietly = TRUE)) {
+  install.packages("ggplot2")
+};library(ggplot2)
+
 #########################################
 ###        Reading the Dataset        ###
 #########################################
