@@ -1,0 +1,439 @@
+0:01,this program is presented by university of california television like what you learn visit our website or
+0:08,follow us on Facebook and Twitter to keep up with the latest UC TV programs
+0:23,good morning everybody I'm Johanna Bella I'm the manager of the
+0:29,science education program and I'm happy to welcome you to the science on Saturday this morning which is brought
+0:35,to you in collaboration with the Livermore Valley Joint Unified School District so how many of you in the
+0:40,audience have come to science on Saturday before this month oh that is awesome well welcome back and before we
+0:48,get started I'm gonna go through my little introduction remember that if
+0:53,need be if we have an emergency please follow all the ushers instructions let's
+0:59,take a moment to silence our cellphones so we can give the presentation our full attention and please when we're done
+1:05,with the presentation would you please stay in your seats for the Q&A so that everybody can hear the questions and
+1:11,everybody can continue the learning process as our presenters answer the
+1:18,questions you may have after listening to them so this year's presentation as
+1:23,you already know women in stem science technology engineering and mathematics and we've talked about science and we've
+1:30,talked about technology and we've talked about engineering so we must be at map and today we're gonna talk about
+1:35,statistics in the world around us and we're gonna have a fabulous presentation our first presenter is dr. Anna kress
+1:44,Ian who is the statistician at the laboratory she runs the group for applied statistics at the lab and she's
+1:51,been at Livermore since 2009 she works on a variety of projects using her
+1:58,statistical skills everything from stockpile stewardship to climate change which you'll hear about today and she
+2:06,received her PhD from the University of Arizona mr. Richard Newton is right from
+2:11,over the hill at Tracy high school he teaches math and computer science he got
+2:16,his degree in an economics from UC Davis and he is the chairperson of the math
+2:23,department currently so without further ado I'd like to introduce dr. Curtis Ian
+2:28,and mr. Newton thank you
+2:35,good morning everybody I'm here to help Ana talk about statistics in science I
+2:42,hope that the talk is really engaging and I'm really excited to have you guys learn about where math can be applied
+2:48,and in which ways to a variety of fields and without any further ado I'll turn it over to Hannah thank you thank you I'm
+2:54,an occupation in enema applied statistician at Lawrence Livermore National Lab and if you don't know what
+3:00,that means you will at the end of this talk it's great seeing you on Saturday
+3:07,morning showing up for science and Saturday lecturing and we'll be talking about basketball medicine climate and
+3:16,we'll see how statistics helps us understand everything around us and Richard is going to join us as Rana said
+3:24,this is the fourth lecture in the stem series where M stands for mathematics and we'll be talking about mathematics
+3:31,of chance in other words probability and statistics through some episodes from
+3:37,history of statistics we'll see how statistics improves our understanding of the world in our lives so how many of
+3:49,you have seen science technology and engineering lectures in the past three
+3:55,Saturdays so what do you think
+4:00,livermorium I chipped and National Ignition projects have in common they
+4:09,they collect data they collect data and
+4:15,they have to do data analysis to show discovery of a short-lived element
+4:21,livermorium they have to do data analysis to study response of a human in
+4:27,a box to a particular drug treatment or they have to analyze data on already
+4:33,conducted NIT shots to inform what future shots they have to do in order to
+4:40,produce more energy and ultimately create a small star on earth you can ask
+4:47,how do they do this and the methods of data analysis have their roots in
+4:55,statistics probability and mathematics statistical methods help us analyze data
+5:02,and to learn about the world around us we humans we've been curious about the
+5:09,world including other humans beings since day one collecting data and
+5:15,summarizing them with numbers has been our way of describing and explaining a
+5:21,world around us the practice of conducting census began in Egypt in the
+5:28,second millennium BC they used census data for tax gathering and to determine
+5:34,fitness for military purposes this collection of data for tax and military
+5:41,continued in many countries around the world to present times census in general
+5:49,means collecting data about every individual person or object in contrast
+5:57,to the census data are those data collected by measuring apparatus at selected locations in times for example
+6:05,imagine measuring temperature we cannot measure everywhere all the time
+6:12,this was specially not possible in the 17th century when they'd are collected
+6:18,across large geographical regions long time periods it's important to keep
+6:24,procedures and records consistent otherwise individual researchers might
+6:30,create records that are difficult to compare and reconcile the first
+6:36,prescription on how to collect data and standardized weather measurements was
+6:41,given by Robert Hooke in 1663 this was
+6:47,one of early examples of statistics in public administration it defines and
+6:52,standard for how data should be collected while data analysis is the
+6:59,first thing we think of as a statistical goal data collection is equally
+7:05,important the earliest set of actual instrumental measurements of temperature date back to
+7:12,medici Network in 17th century these data were recorded every few hours at 11
+7:20,different locations in Europe mostly through Italy using identical
+7:25,thermometers even then people recognized that weather can change within a day and
+7:32,the measurements need to be taken several times a day but in addition that
+7:37,they recognized that there might be something we call today measurement
+7:43,error by the 18th century the term statistics meant systematic collection
+7:50,of demographic and economic data in the early 19th century the collection of
+7:56,data intensified and the meaning of statistics broadened to include all three disciplines data collection data
+8:05,summarization and data analysis of course in those days there were no
+8:11,computers or calculators so data summarization was done by paper and
+8:17,pencil a pie chart a form of graphical representation of data that we take for
+8:23,granted these days was first developed in 1801 in 1834 the Royal statistical
+8:32,Society was established in London the members call themselves status
+8:39,--tz-- it's a word we don't use often these days and their original aim was
+8:44,procuring arranging and publishing facts to illustrate the conditions and
+8:50,prospects of society the American Statistical Association the main
+8:57,professional organization of the decisions in the United States was established just five years later and
+9:04,it's the second oldest continuously operating professional Society in the
+9:10,United States 477 years the Association has been a close affiliate of the US
+9:19,government and the work statistical work that is done in the government in particular in Census Bureau Department
+9:26,of Labor and Food and Drug and Drug Administration the first woman to be an
+9:34,elected fellow of the Royal statistical Society was Florence Nightingale
+9:41,Florence 19 it was founder of modern nursing statistician and English social
+9:48,reformer she was born in 1822 wealthy English parents who discouraged her from
+9:54,pursuing the nursing profession these periods are often known as Dark Ages of
+10:01,Nursing when nurses were unskilled and hospitals were mainly places to die so
+10:09,it's not difficult to see why her parents discouraged come from suing the profession
+10:15,Florence loved mathematics from an early age and became a pioneer in visual presentation and information and
+10:22,statistical graphics Florence became famous for her work during the Crimean
+10:28,War from 1854 to 1856 responding to
+10:34,unpopular newspaper reports on horrendous situation in the English work
+10:40,and hospitals the Secretary of War agreed to let her organize a group
+10:46,female nurses and to go to the war camp in November of 1854 nineteen gale and
+10:54,thirty eight nurses arrived to the British camp the doctors originally did
+11:00,not welcome the female nurses but at the number of patients escalated their help
+11:06,was needed and they made a difference and therefore in this leadership the
+11:12,nurses brought hygiene sanitation nutrition and comfort to patients her
+11:18,group of nurses transformed the hospital into healthy environment within six
+11:23,months and that resulted in the death rates of patients to drop from 40
+11:29,percent to 219 Gail is credited with a
+11:35,development of a form of a pie chart that we called these days nineteen girls
+11:41,rose diagram this is the this is a picture of a rose diagram from Florence
+11:46,nineteen girls report that she presented to the members of British Parliament on the nature and magnitude of the
+11:53,conditions of medical during the Crimean
+12:00,War now if you look at the blue circles the Rose diagram on the left and the
+12:08,rose diagram on the right they're on the same scale and the area colored grey
+12:13,represents the deaths from preventable causes the diagram on the right consent
+12:20,Starr it starts with April of 1854 and glows goes clockwise there are 12 slices
+12:28,on the diagram and each slice stands for one month and each slide shows number of
+12:36,deaths for that month they're colored by causes of death and you see that the
+12:41,gray area is the largest so the majority of the deaths are preventable and you
+12:47,mostly to lack of hygiene medications and food Florence and her nurses arrived
+12:54,to the camp in November of 1854 and start implementing changes to the nursing
+13:00,practice six months later the mortality rate drops to two percent we see this on
+13:09,the diagram on the left so 19 years statistical data analysis strongly
+13:15,influenced the findings of the Commission investigating the health in the British Army and resulted in greater
+13:22,public health advances Nanta Gayle was described as a true pioneer in the
+13:29,graphical representation of statistics the kind of data that Florence collected
+13:36,in military hospitals we refer to as observational data in contrast to
+13:44,observational data are the data collecting from experimental studies in
+13:50,the 20th century statistics began to be used in pharmaceutical testing when a
+13:57,new drug is introduced the question that needs to be addressed is does it work more precisely how effective is the new
+14:07,drug in treating certain medical condition we want drugs to be effective
+14:13,for a large population but it's not possible to test them on the entire population so the question becomes how
+14:22,should an experiment be designed to test the effectiveness of a drug
+14:27,statisticians established a procedure called randomized controlled experiments
+14:34,first the subjects are selected to represent the population of interest
+14:39,then the subjects are randomly assigned to two groups the treatment group and
+14:45,the control group the treatment group is then given a new medication or treatment
+14:52,while the control group doesn't receive the actual medicine but a placebo
+14:59,statisticians then use a method of comparison to compare the effect of the
+15:04,drug the reasoning is if the control is comparable to the
+15:10,treatment group apart from the treatment then the difference in the response of
+15:16,the two groups is likely to do to be to the effect of the treatment the random
+15:23,assignment of subjects is used to make sure that the treatment group is like the control group in a double-blind
+15:32,experiment subjects do not know whether they are in the treatment or in the control group neither to do those who
+15:40,evaluate those responses these guards against bias both in the response in in
+15:49,the evaluation when the response of the two groups are compared the question becomes is the difference between the
+15:56,two groups due to chance or something else just as important is the question
+16:03,if there is a difference between these two groups what is the chance that we see it the decisions have invented tests
+16:12,of significance to deal with these sorts of questions the reasoning behind tests
+16:19,of significance relies on understanding of probability probability is part of
+16:25,mathematics that studies questions about chance and events happening people talk
+16:31,loosely about chance all the time what is a chance of getting a job
+16:37,what is the chance I need Steven Steve Curren on a street today or what is the
+16:43,chance of rain tomorrow but for scientific purpose it is necessary to
+16:49,give the word chance a definite and clear definition this turns out to be
+16:57,hard and mathematicians have struggled with this for centuries the doctrine of
+17:04,chance was the first textbook in probability and it was written by 18th
+17:09,century French mathematician the more moral rod of the chance of something as
+17:17,a percentage of time it is expected to happen when the basic
+17:23,process is done over and over again independently and under the same
+17:29,assumptions so if we flip a coin many
+17:35,times half of the tosses will result in heads half of the tosses will result in
+17:41,tails if something is impossible it happens 0 percent of the time so if we
+17:49,were to roll two dice and add the numbers could we get 14 no because on
+17:56,each of them the largest number is 6 so the largest number we can come up with on 2 is 12 so that's an example of
+18:04,impossible invent getting 14 on the other hand if something is sure to
+18:10,happen like the Sun rises tomorrow then it happens hundred percent of the time
+18:19,testing the effectiveness of a new drug was just one of in examples of statistical reasoning being used in
+18:25,public administration there are many more and with the emphasis on learning
+18:31,from data and making better predictions that the stations have been working in
+18:37,government business science and even sports and I'll turn to Richard now to
+18:43,tell you how statistics is used in basketball
+18:54,thank you Anna so it's a really exciting time in basketball right now because
+18:59,data data analytics and statistics are transforming the way the way the game is looked at and how it's being played and
+19:06,the reason for that is because up above each basketball quarter are now six
+19:12,cameras which were recording the movement of all players in three-dimensional space and from that
+19:19,data you can you can generate hundreds of thousands of data points because you have five players per team as well as
+19:24,the basketball that represents eleven actors across about five thousand square feet of force floor space for 48 minutes
+19:32,so with that data we can now start asking more advanced questions than we
+19:37,could previously previously we only had a box score which represented about five statistics rebounds assists points
+19:43,steals and blocks so what I like to call this as high resolution data the problem
+19:49,then becomes how do you take that high resolution data and then take it and answer questions with it so we're gonna
+19:57,go to YouTube and we've got a video clip that help explains how the Golden State Warriors are using data to transform the
+20:03,way they look at the game of basketball the Warriors are the top seed in the NBA
+20:10,playoffs but their success is predicated on much more than Jukes and jumpers they
+20:16,rely just as heavily on tracking and technology we have a sport view cameras by stats and here six of them
+20:23,strategically mounted high above the Oracle Court basically allows us to map out the game and a three-dimensional
+20:31,everything everything from player positioning and ball movement to shot charts and tendencies the data and its
+20:38,applications seemingly limitless we've got data from every single game during NBA season we
+20:43,kind of do whatever we want with that data and manipulate in a way that that makes sense and we can ask the questions
+20:49,and get answers stuff that's a shot one enter Sammy gelfand affectionately known as crunch of the
+20:56,wizard a lot of different nicknames of thing on the day his official title is coordinator of basketball analytics his
+21:03,job to take the mouths of sports view data use it to formulate the right questions help answer those questions
+21:10,and disseminate the information to coaches and players I'll go to him and ask him for maybe a certain stat that
+21:18,I'm looking for or maybe something I'm seeing on the floor and I'll ask him if there's a stat that he has that can
+21:24,either support or deny the argument you have been there the field down you don't just take a bunch of data and like
+21:30,picking a needle out of a haystack when you watch the games things will pop out sometimes they'll get answers that we
+21:35,can make decisions from sometimes we want those decisions might be as minor as which direction to force an opposing
+21:41,ball handler or as major as which player might add the most value to the organization especially when it comes to
+21:48,defensive metrics that are harder to quantify from traditional statistics I mean taught a couple times that was the
+21:54,main reason why I traded for me was to try that defense they missed it a lot of time and resources he's researching that
+21:59,I knew though researching me a month before the trade deadline so what I really like about that video is it
+22:05,highlights how they're taking the data but it takes a statistician to analyze that data to inform decision making and
+22:11,they use those decisions to guide what's happening on the floor during a game to plan for a game or even in the middle of
+22:19,a game to maybe change at halftime the approach that they're using on the fly
+22:24,additionally they use that information too large to guide the decision making process of the organization in terms of
+22:30,which players they want to acquire maybe which players they need to get rid of and so we have another video which I
+22:35,think is really interesting because it demonstrates that if you consider the Golden State Warriors organization it's
+22:41,probably worth about two billion dollars or more today and so these decisions are
+22:47,incredibly important from an economic standpoint so this next clip is actually the Golden State Warriors CEO or general
+22:52,manager basketball operations explaining how they're using analytics and statistics to guide their
+22:58,decision-making process at the highest levels
+23:03,basketball it's not just about our customers okay big big data is affecting the game on
+23:11,the court and how we gain a competitive edge technology is increasingly making
+23:16,an impact on the basketball court gone are the days of assistant coaches discounting points and rebounds and
+23:22,assists today it's about efficiency in the amount of time I'm given on the court how efficient am I in scoring
+23:28,points what combinations of players playing together perform best in each
+23:33,games situation is a play more effective when a star player catches the ball and shoots immediately or dribbles twice and
+23:40,then shoots or drives to the basket the Warriors were really one of the first teams to deploy the most advanced
+23:46,product available to get objective answers to these questions through analytics up in the rafters of Oracle
+23:53,Arena six cameras are deployed to capture every movement of every player on the court we're going to show you a
+24:00,video that we've slowed down a little bit to make it easier for you to watch as you can see each of these players is
+24:06,identified with his jersey number one teams in yellow the other in red the red circle follows the ball each players
+24:13,position is tracked as activity recorded each dribble each pass each shot then we
+24:19,have a 3d map of every player and every combination of players sharing the court
+24:24,at the same time we can actually at this point analyze how the offense develops
+24:30,each play and how the defense defends the basket represented here by the the
+24:36,blue and yellow now hundreds of thousands of data points are represented and then they're organized into reports
+24:43,that our coaching staff can use to improve team important team performance and we're really just scratching the
+24:49,surface at this intersection of technology and the game itself I really
+24:54,like how he concludes there I also like how he's taking the data and they show the mathematical or physical model that
+25:00,they're that they're generating but what he says at the end is really powerful that we're really just scratching the surface of the intersection of the
+25:06,technology and the game of basketball because we're able to now gather all this data but what do we do with it and
+25:12,what decisions can we Jenner and I want to show you how it's changing the nature of the game in a couple quick
+25:19,steps so if we look at this first slide here what you can see is when the
+25:25,three-point line was entered into the NBA in 1979 very few taint very few
+25:31,teams took three-point shots you can see the graph represents the number of times a team attempted a three-point shot per
+25:38,game on average so in a particular season in 1979 teams only tried three
+25:45,three-point shots per game which is extremely low today they're taking 22
+25:50,shots per team per games so there's been an increase by a factor of about seven we can actually see right here
+25:57,they shortened the three-point line during a couple of seasons and teams took more shots but if we were to
+26:02,account for that aberration of the data we would see a strong linear trend so the decision is being made to take more
+26:09,three-point shots and the question would be why are they making that decision and then it's also influencing the behavior
+26:16,not just of the teams as entities but as the individual players so on this next
+26:22,slide what we're gonna see is anyone that's been listening to the to the news these days is probably hearing that
+26:28,Stefan curry is extremely close to breaking the record in number of threes made per season we can see that record
+26:35,being beaten here in two consecutive seasons so let me explain what the graph is demonstrating in the blue you can see
+26:41,Jones in 2005 set the record for most threes in a season with 225 and the
+26:47,graph is showing from the first game of the season to the final game of the season so if we're going across the
+26:53,games across the x-axis and we can see sometimes he was making more and then
+26:59,sometimes his rate slowed down but he ended up at 225 last season Steph Curry broke the record with 286 so we can see
+27:07,the growth over the course of the season in his number of shots made the yellow
+27:13,represents his pace as of this season as of a few weeks ago he's actually about
+27:18,to break the record in a couple of games he's just short of 286 so the question
+27:24,can become then where is he gonna go moving forward we've taken the data we've we've
+27:31,collected it we've analyzed it we've summarized it graphically but now we can use it to make a prediction
+27:36,how many three-point shots is Stefan Curie actually going to make this season and so various people are trying to
+27:42,guess how many he's going to make and so if you make an approximation or a prediction of let's say four hundred and
+27:50,three three points made at the end of the season that wouldn't be a very good prediction because it's so specific
+27:56,all right so instead of making an extremely specific prediction I could do something like this and I could have a
+28:02,cone of variability in my prediction stating that at the end of the season
+28:07,ice I think that he's going to have somewhere between say 380 shots made and
+28:12,430 shots made all right this is powerful because this is not a form of
+28:18,weakness in my argument and a lot of people see mathematical uncertainty in that way instead of being a weak
+28:24,argument it's actually now a strong argument because if I said he's going to make four hundred and three shots my
+28:30,likelihood of being inaccurate is extremely high if I give a cone of variability in my prediction I have a
+28:37,very strong prediction that's gonna be more accurate more fire percent of the time so I can be more confident in that
+28:42,prediction so the decision-making process is changing over the course of a
+28:48,season but how does that affect an individual shot being made and that's another question that we could look at this next slide is purposefully
+28:54,overwhelming all right so this represents all of his shots from every
+29:00,region of the floor up until now in the season so there's various regions represented and I'm gonna highlight one
+29:06,so we can see up until now in the season he's taken 270 shots from this particular region of the floor and made
+29:13,163 of them giving him an accuracy rate of 60% from that space whereas this is
+29:19,his worst spot on the floor he's taken 16 shots and only made six of them so he's 38% from that region there so I can
+29:28,take this information which is maybe too much to look at broadly and narrow down
+29:33,the scope of my question by doing something like this if I look only at the difference between making an easy shot close to the
+29:41,basket where he's 60% accurate and I summed up all the shots from the beyond
+29:47,the three-point arc and he's made 222 out of 488 shots we can see that he's
+29:52,45% accurate from far away and 60% accurate from close to the basket but
+29:58,it's still not answering questions on his decision-making I know now that he's less accurate from far away but that
+30:03,seems like an obvious answer so we could break down the question a little bit further and what I'm gonna do is I'm
+30:08,gonna change it to have a like denominator because right now it's confusing he's taking more shots from far away than close up so if I change it
+30:15,to having a denominator of a hundred now I can see were he to take a hundred
+30:20,shots from close to the basket I would expect him to make sixty of those shots so that represents my ratio of 60%
+30:27,whereas if he took a hundred shots from far away I would expect him to make 45 all right but at the title of the slide
+30:33,it says that we are generating expected points not expected ratio of makes two
+30:38,misses so we know that he makes more points if he's further away so the analysis I'm doing leads to this
+30:45,conclusion in terms of points were he to take a hundred shots from far away he
+30:52,would make it expectedly 45 of them according to my ratio and he
+30:57,would get three points per shot giving me 135 overall points whereas if I gave him the ball and he shot it from close
+31:03,up a hundred times I would expect him to earn 120 points well now it looks much more clear in guiding my decision should
+31:09,I take a two-point shot or a three-point shot and it seems from this graphic that I should be going for the three-point
+31:15,shot so this guy's my decision-making process and giving the expected points per possession when Stefan curry is
+31:21,holding the ball given he has the choice but that's not the whole story
+31:26,all right this is a expected points value breakdown and really there's a
+31:31,nature of probability that's going to go into whether he makes four misses those shots so what we've done now is we've
+31:37,taken that information and we've put it into a simulation and I've broken the
+31:42,simulation down into two worlds on the left side of the world you can see the pink Stefan curry he's behind the
+31:48,three-point line and he's going to attempt a three-point shot so he's got a 40 five percent chance to make the shot and
+31:54,if he makes it he gets three points the Stefan Curry on the right in purple is gonna attempt a two-point shot which we
+32:00,know he has a 60% chance to make and he'll earn two points we're gonna give each step in Curry ten shots and he'll
+32:07,either make them or miss them so on the left if he takes ten three-point shots he could earn anywhere
+32:13,between 0 and 30 points and on the right he could earn anywhere from 0 to 20
+32:19,points so I'm gonna have a student volunteer of mine come out and help me this is Bella all right I'm gonna let
+32:26,Bella actually pick if she wants so Bella you can come on over here so do
+32:32,you want to attempt the three-point side or the two-point side you're gonna go for the 3-point side all right so you
+32:38,can take the chair on the left so before we engage in the simulation I want everyone to make a prediction all right given ten shots for each stuff
+32:46,in curry which one do you think is going to earn more points so if you think the
+32:52,Stefan curry on the left the three-point shooting stuff and curry is going to earn more points raise your left hand and if you think it's the one that's
+32:58,taking the two point shots raise your right hand okay
+33:07,all right Saul it I'll let Bela shoot first it will wait Bela just one sec while they get it going on the big
+33:14,screen how cool so she took her first shot and you can see I didn't make it
+33:20,I took mine didn't make a shot
+33:36,oh I'm gonna take trouble tied it up
+33:52,all right looks like I'm in the lead oh there we go Oh
+33:59,yep that's it so ten shots so it looks like the two points I'd won so just raise your hand really quick if you got
+34:05,the right prediction all right so that kind of contradicts what we had previously learned which is really
+34:11,interesting and what's really nice about computing is I can now do something like this that was rather slow so what I've
+34:19,done is I set up the computer to run a thousand trials of this experiment so there's gonna be 20 shots because 10
+34:25,shots per player times a thousand is 20,000 shots which is about as many three-point shots that have been taken
+34:32,this last month in the NBA to think about a scale there and I'll just run the simulation and there we go so that
+34:41,was 20,000 shots and we can see while in our single trial the two-point shooter
+34:46,won in the long term and the very long term liked and has been talking about we would actually expect the 3-point
+34:52,shooter to win more frequently and there are some ties so hopefully that clarifies the idea of expected value and
+34:59,the nature of probability and how additionally simulation can be extremely powerful in guiding the decision-making
+35:06,process so if everyone can give Bella a nice big round of applause that'd be great
+35:18,Thank You Bella alright and with that
+35:24,I'm going to turn it back over to Anna so she can show you how Big Data diet decides her decision-making process in
+35:30,the field that she works in thank you so
+35:39,it looks like there is a lot of data generating in basketball when the spatial position of each player and the
+35:45,ball attract over time however their natural phenomena that generate much
+35:52,larger data sets can you think of one
+35:57,for example the earth climate scientists
+36:02,study our enormous lee complex planet and the employee statistical reasoning to make sense of the data if you want to
+36:11,learn more about climate science research you can find several lectures given in the science and Saturday series
+36:18,by climate scientists I'm a statistician so today we'll talk about climate from
+36:23,data perspective we'll talk about uncertainties and uncertainly it doesn't
+36:29,mean we don't know anything it doesn't mean that science is not reliable on the contrary to a scientist
+36:37,statistically calculated uncertainty is a form of knowledge and explains how
+36:43,well something is known people often think that weather and climate are the
+36:51,same but they are not right the weather
+36:56,is the state of the atmosphere around us and we can measure it with Mal instruments we can measure temperature
+37:03,pressure humidity precipitation the picture on the left shows weather
+37:08,conditions in Livermore yesterday the picture on the right could represent
+37:14,climate in Livermore in February sometimes it's cold sometimes it's hot
+37:21,but more often it's between weather happens
+37:27,they today and in shorter climate is weather over a long period of time there
+37:36,is an old saying climate is what you expect and weather is what you get we
+37:43,can think of climate as the probability or chance of different types of weather
+37:50,occurring climate change is change in the typical or average weather for
+37:57,example increased average temperature may mean many hot many more hot days and
+38:04,slightly fewer cold days now if you are
+38:12,flipping a coin to see if it's fair you need to flip it for a long time because
+38:18,before you can be sure in the same way we need decades odd weather records to
+38:25,make statement about climate to study climate and detects change we need
+38:32,observational data with advances in technology which can collect data from
+38:38,beat Austrians to atmosphere for example some NASA satellites and instruments
+38:45,observe Earth's land air ice water others monitor the Sun and the amount of
+38:52,energy coming from the Sun they are all important for understanding how climate
+38:58,works from scientific view we need to
+39:04,survey all the data not just temperature records from the surface or from space
+39:11,but also data from deep oceans Arctic sea ice land-based glaciers Greenland
+39:18,and so on there are many the very difficult problems that's the decisions
+39:25,work together with climate scientists one of them is that observational data from different measurement platforms
+39:31,often represent climate processes at very different spatial and temporal
+39:37,scales a lot scientists and statisticians are
+39:44,involved in research that studies how to best to cope what is the best way to
+39:52,combine the data that come from different sources how to identify and adjust for differences in measurement
+39:58,systems and how to deal with change in spatial and temporal coverage of
+40:04,measurements this is the map of observed surface temperature change from 1901 to
+40:13,2012 this map was derived from temperature trends determined by a
+40:19,statistical method called linear regression one of the challenges we face
+40:25,is that in early 20th century we don't have observations from many parts of the
+40:31,world those areas are white on the map you see on the map that the air
+40:39,temperature over land changes more because the change in temperature over
+40:45,land happens much more rapidly than the change over ocean over parts of the
+40:55,ocean you see that the change is around half of a degree Celsius while over land
+41:01,you see regions colored in purple with the change of two degrees Celsius many
+41:08,aspects of climate are showing evidence of change here is a graph that shows increase in global land surface
+41:15,temperature from 1850 to present time each curve represents independently
+41:24,estimated change and while the all these curves are not the same they don't
+41:30,completely agree we see that there is upward trend in all of them the sea
+41:38,scene were upward trends in the global sea surface temperature on this graph
+41:44,they are five independently derived estimates of sea surface temperature
+41:52,we like to have many little Earth's to play with and collect data we don't have
+41:58,them so we need computer models to simulate the earth climate models are
+42:04,computer programs need mathematical equations the heart of a climate models
+42:09,are the basic laws of physics like Newton's law of motion climate models
+42:16,use mathematical equations to describe the havior of various back factors of
+42:22,the Earth's system that impact climate these equations describe sun's energy
+42:29,dynamics of the atmosphere ocean land surface living things in ice
+42:36,the models are programmed to simulate condition over hundreds of years as
+42:42,accurately as possible to solve all these mathematical equations we need
+42:49,supercomputers and here at Lawrence Livermore National Lab we are fortunate that at any given time we have the
+42:55,fastest and the biggest computer supercomputer in the world now remember
+43:03,we said that when we talked about sampling from the population we said that we cannot test every possible
+43:09,subject similarly when running simulation experiments on earth there
+43:15,are too many different experiments we can try even for a supercomputer so the
+43:22,question is how do we choose ones to run this is where the decisions come in to
+43:30,help to help select the most useful simulation to run those that will give
+43:36,us the more the most information about the questions we are interested in
+43:42,climate change is caused by change in energy balance there is more energy
+43:48,coming in into the system than coming out and the planet is storing it up the
+43:54,extra energy means that the temperature is increasing on this graph we see
+44:00,increase in the observed temperature shown in the back curve the question that we can ask
+44:06,ourselves now is is this increased due to nature alone well we have climate
+44:14,models and we can run computer experiments so the red curve shows what
+44:22,our computer model tells us if we assume that there is no human factor
+44:28,influencing the climate actually this graph shows temperatures from many such
+44:35,simulations in gray and yellow and you
+44:41,see that none of these simulations agree with the observational data and remember
+44:48,we run all these simulations and their assumptions no human factor influences the climate therefore warning cannot be
+44:57,explained by nature alone what if we change the simulation to include human
+45:04,behavior if we took if you look at
+45:09,simulations that take carbon dioxide and other human factors now we see that the
+45:16,simulations are pretty close to the observed temperatures so the fingerprint
+45:22,of human activity is relevant to the magnitude and patterns of the observed climate change the question is how fast
+45:31,will the warming be and what happens to the right of this graph what happens
+45:38,past 200 2010 here we see possible
+45:44,future trends of temperature in red we see what simulations predict if we
+45:52,continued greenhouse emissions at the current rate in blue the simulation
+45:58,assumes that we'll go green each of these predictions has its own cone of
+46:05,variability in fact we don't know with certainty how humans are going to behave
+46:12,in the future so we have to consider many scenario
+46:17,what if we continue to produce emissions as we are now what if we manage to
+46:23,reduce them in the developing nations we are not certain at what rate the world's
+46:29,population will grow what mix of renewable and fossil fuel will people use in the next 30 years
+46:37,so assumptions about all these questions influence the prediction of future
+46:43,climate change I hope that we convinced you that you can apply statistics to
+46:48,many different areas and that through statistical analysis data have been
+46:54,telling us fascinating stories through history I'll quote one of my favorites
+46:59,at the stations the great John Tukey who said once the best thing about being a
+47:05,statistician is that you get to play in everyone's backyard that pretty much
+47:11,sums up why I ended up a statistician I like working with other scientists learning other signs what what they do
+47:19,and looking at the data even better it's
+47:24,great time to be a statistician Computers make it possible to do things
+47:30,with the data that were unimaginable before but they also create so much data
+47:36,that we need all the statisticians we can get statistics is the ninth fastest
+47:43,growing occupation and it's likely to be ranked even higher so my plea to you the
+47:51,next generation is take statistics classes and learn kind of skills needed
+47:57,to succeed in data centric world this is
+48:05,the end of my talk thank you all very much for coming today please stay in
+48:11,your seats and we'll take questions
